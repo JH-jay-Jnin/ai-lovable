@@ -1,0 +1,820 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2026-01-03",
+      "type": "expense",
+      "category": "의료",
+      "amount": 149000,
+      "memo": "병원"
+    },
+    {
+      "id": 2,
+      "date": "2026-01-03",
+      "type": "expense",
+      "category": "주거",
+      "amount": 48000,
+      "memo": "관리비"
+    },
+    {
+      "id": 3,
+      "date": "2026-01-07",
+      "type": "expense",
+      "category": "경조사",
+      "amount": 60000,
+      "memo": "생일선물"
+    },
+    {
+      "id": 4,
+      "date": "2026-01-08",
+      "type": "expense",
+      "category": "공과금",
+      "amount": 19000,
+      "memo": "가스요금"
+    },
+    {
+      "id": 5,
+      "date": "2026-01-08",
+      "type": "income",
+      "category": "보너스",
+      "amount": 2007000,
+      "memo": "분기보너스"
+    },
+    {
+      "id": 6,
+      "date": "2026-01-09",
+      "type": "expense",
+      "category": "의료",
+      "amount": 21000,
+      "memo": "건강검진"
+    },
+    {
+      "id": 7,
+      "date": "2026-01-09",
+      "type": "expense",
+      "category": "식비",
+      "amount": 71000,
+      "memo": "편의점"
+    },
+    {
+      "id": 8,
+      "date": "2026-01-10",
+      "type": "expense",
+      "category": "경조사",
+      "amount": 50000,
+      "memo": "생일선물"
+    },
+    {
+      "id": 9,
+      "date": "2026-01-10",
+      "type": "income",
+      "category": "용돈",
+      "amount": 828000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "id": 10,
+      "date": "2026-01-11",
+      "type": "expense",
+      "category": "의료",
+      "amount": 19000,
+      "memo": "약국"
+    },
+    {
+      "id": 11,
+      "date": "2026-01-11",
+      "type": "expense",
+      "category": "교육",
+      "amount": 130000,
+      "memo": "학원"
+    },
+    {
+      "id": 12,
+      "date": "2026-01-14",
+      "type": "income",
+      "category": "용돈",
+      "amount": 843000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "id": 13,
+      "date": "2026-01-15",
+      "type": "expense",
+      "category": "교통",
+      "amount": 40000,
+      "memo": "택시"
+    },
+    {
+      "id": 14,
+      "date": "2026-01-17",
+      "type": "income",
+      "category": "보너스",
+      "amount": 975000,
+      "memo": "분기보너스"
+    },
+    {
+      "id": 15,
+      "date": "2026-01-17",
+      "type": "expense",
+      "category": "의료",
+      "amount": 77000,
+      "memo": "병원"
+    },
+    {
+      "id": 16,
+      "date": "2026-01-20",
+      "type": "expense",
+      "category": "통신",
+      "amount": 80000,
+      "memo": "휴대폰"
+    },
+    {
+      "id": 17,
+      "date": "2026-01-27",
+      "type": "income",
+      "category": "보너스",
+      "amount": 2764000,
+      "memo": "분기보너스"
+    },
+    {
+      "id": 18,
+      "date": "2026-01-27",
+      "type": "expense",
+      "category": "통신",
+      "amount": 66000,
+      "memo": "휴대폰"
+    },
+    {
+      "id": 19,
+      "date": "2026-02-04",
+      "type": "expense",
+      "category": "의료",
+      "amount": 70000,
+      "memo": "약국"
+    },
+    {
+      "id": 20,
+      "date": "2026-02-05",
+      "type": "income",
+      "category": "부수입",
+      "amount": 1994000,
+      "memo": "프리랜스"
+    },
+    {
+      "id": 21,
+      "date": "2026-02-08",
+      "type": "expense",
+      "category": "교통",
+      "amount": 75000,
+      "memo": "주유"
+    },
+    {
+      "id": 22,
+      "date": "2026-02-09",
+      "type": "income",
+      "category": "용돈",
+      "amount": 2570000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "id": 23,
+      "date": "2026-02-10",
+      "type": "income",
+      "category": "환급",
+      "amount": 2681000,
+      "memo": "세금환급"
+    },
+    {
+      "id": 24,
+      "date": "2026-02-13",
+      "type": "expense",
+      "category": "식비",
+      "amount": 142000,
+      "memo": "배달음식"
+    },
+    {
+      "id": 25,
+      "date": "2026-02-14",
+      "type": "income",
+      "category": "환급",
+      "amount": 2189000,
+      "memo": "세금환급"
+    },
+    {
+      "id": 26,
+      "date": "2026-02-14",
+      "type": "income",
+      "category": "용돈",
+      "amount": 1782000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "id": 27,
+      "date": "2026-02-15",
+      "type": "expense",
+      "category": "주거",
+      "amount": 84000,
+      "memo": "월세"
+    },
+    {
+      "id": 28,
+      "date": "2026-02-17",
+      "type": "income",
+      "category": "부수입",
+      "amount": 842000,
+      "memo": "중고판매"
+    },
+    {
+      "id": 29,
+      "date": "2026-02-18",
+      "type": "expense",
+      "category": "경조사",
+      "amount": 100000,
+      "memo": "생일선물"
+    },
+    {
+      "id": 30,
+      "date": "2026-02-20",
+      "type": "income",
+      "category": "이자수익",
+      "amount": 1139000,
+      "memo": "예금이자"
+    },
+    {
+      "id": 31,
+      "date": "2026-02-26",
+      "type": "expense",
+      "category": "교육",
+      "amount": 68000,
+      "memo": "세미나"
+    },
+    {
+      "id": 32,
+      "date": "2026-02-26",
+      "type": "expense",
+      "category": "교육",
+      "amount": 114000,
+      "memo": "학원"
+    },
+    {
+      "id": 33,
+      "date": "2026-02-26",
+      "type": "expense",
+      "category": "문화생활",
+      "amount": 110000,
+      "memo": "영화"
+    },
+    {
+      "id": 34,
+      "date": "2026-03-01",
+      "type": "expense",
+      "category": "쇼핑",
+      "amount": 138000,
+      "memo": "신발"
+    },
+    {
+      "id": 35,
+      "date": "2026-03-01",
+      "type": "income",
+      "category": "환급",
+      "amount": 2315000,
+      "memo": "세금환급"
+    },
+    {
+      "id": 36,
+      "date": "2026-03-02",
+      "type": "income",
+      "category": "환급",
+      "amount": 1195000,
+      "memo": "세금환급"
+    },
+    {
+      "id": 37,
+      "date": "2026-03-04",
+      "type": "expense",
+      "category": "공과금",
+      "amount": 97000,
+      "memo": "가스요금"
+    },
+    {
+      "id": 38,
+      "date": "2026-03-04",
+      "type": "expense",
+      "category": "주거",
+      "amount": 135000,
+      "memo": "관리비"
+    },
+    {
+      "id": 39,
+      "date": "2026-03-06",
+      "type": "expense",
+      "category": "식비",
+      "amount": 82000,
+      "memo": "점심 김밥천국"
+    },
+    {
+      "id": 40,
+      "date": "2026-03-07",
+      "type": "expense",
+      "category": "식비",
+      "amount": 29000,
+      "memo": "커피"
+    },
+    {
+      "id": 41,
+      "date": "2026-03-14",
+      "type": "expense",
+      "category": "의료",
+      "amount": 149000,
+      "memo": "병원"
+    },
+    {
+      "id": 42,
+      "date": "2026-03-16",
+      "type": "expense",
+      "category": "교육",
+      "amount": 94000,
+      "memo": "세미나"
+    },
+    {
+      "id": 43,
+      "date": "2026-03-17",
+      "type": "income",
+      "category": "부수입",
+      "amount": 2383000,
+      "memo": "중고판매"
+    },
+    {
+      "id": 44,
+      "date": "2026-03-18",
+      "type": "income",
+      "category": "보너스",
+      "amount": 436000,
+      "memo": "분기보너스"
+    },
+    {
+      "id": 45,
+      "date": "2026-03-19",
+      "type": "expense",
+      "category": "교육",
+      "amount": 11000,
+      "memo": "학원"
+    },
+    {
+      "id": 46,
+      "date": "2026-03-20",
+      "type": "income",
+      "category": "급여",
+      "amount": 1974000,
+      "memo": "월급"
+    },
+    {
+      "id": 47,
+      "date": "2026-03-21",
+      "type": "income",
+      "category": "환급",
+      "amount": 1005000,
+      "memo": "세금환급"
+    },
+    {
+      "id": 48,
+      "date": "2026-03-23",
+      "type": "income",
+      "category": "부수입",
+      "amount": 2043000,
+      "memo": "중고판매"
+    },
+    {
+      "id": 49,
+      "date": "2026-03-28",
+      "type": "expense",
+      "category": "경조사",
+      "amount": 126000,
+      "memo": "결혼식"
+    },
+    {
+      "id": 50,
+      "date": "2026-04-12",
+      "type": "expense",
+      "category": "쇼핑",
+      "amount": 66000,
+      "memo": "생필품"
+    },
+    {
+      "id": 51,
+      "date": "2026-04-13",
+      "type": "expense",
+      "category": "교통",
+      "amount": 40000,
+      "memo": "주유"
+    },
+    {
+      "id": 52,
+      "date": "2026-04-15",
+      "type": "expense",
+      "category": "의료",
+      "amount": 78000,
+      "memo": "건강검진"
+    },
+    {
+      "id": 53,
+      "date": "2026-04-15",
+      "type": "expense",
+      "category": "교육",
+      "amount": 40000,
+      "memo": "학원"
+    },
+    {
+      "id": 54,
+      "date": "2026-04-20",
+      "type": "expense",
+      "category": "통신",
+      "amount": 39000,
+      "memo": "휴대폰"
+    },
+    {
+      "id": 55,
+      "date": "2026-04-22",
+      "type": "expense",
+      "category": "경조사",
+      "amount": 142000,
+      "memo": "생일선물"
+    },
+    {
+      "id": 56,
+      "date": "2026-04-22",
+      "type": "income",
+      "category": "환급",
+      "amount": 2081000,
+      "memo": "세금환급"
+    },
+    {
+      "id": 57,
+      "date": "2026-04-24",
+      "type": "expense",
+      "category": "의료",
+      "amount": 137000,
+      "memo": "병원"
+    },
+    {
+      "id": 58,
+      "date": "2026-04-25",
+      "type": "expense",
+      "category": "교육",
+      "amount": 120000,
+      "memo": "온라인강의"
+    },
+    {
+      "id": 59,
+      "date": "2026-04-25",
+      "type": "expense",
+      "category": "교육",
+      "amount": 79000,
+      "memo": "세미나"
+    },
+    {
+      "id": 60,
+      "date": "2026-04-26",
+      "type": "expense",
+      "category": "교육",
+      "amount": 88000,
+      "memo": "세미나"
+    },
+    {
+      "id": 61,
+      "date": "2026-05-05",
+      "type": "expense",
+      "category": "공과금",
+      "amount": 19000,
+      "memo": "전기요금"
+    },
+    {
+      "id": 62,
+      "date": "2026-05-06",
+      "type": "income",
+      "category": "용돈",
+      "amount": 334000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "id": 63,
+      "date": "2026-05-08",
+      "type": "expense",
+      "category": "공과금",
+      "amount": 137000,
+      "memo": "가스요금"
+    },
+    {
+      "id": 64,
+      "date": "2026-05-09",
+      "type": "expense",
+      "category": "쇼핑",
+      "amount": 10000,
+      "memo": "전자제품"
+    },
+    {
+      "id": 65,
+      "date": "2026-05-11",
+      "type": "expense",
+      "category": "교통",
+      "amount": 139000,
+      "memo": "주유"
+    },
+    {
+      "id": 66,
+      "date": "2026-05-12",
+      "type": "income",
+      "category": "용돈",
+      "amount": 1106000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "id": 67,
+      "date": "2026-05-21",
+      "type": "income",
+      "category": "용돈",
+      "amount": 789000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "id": 68,
+      "date": "2026-05-22",
+      "type": "expense",
+      "category": "식비",
+      "amount": 67000,
+      "memo": "배달음식"
+    },
+    {
+      "id": 69,
+      "date": "2026-05-22",
+      "type": "expense",
+      "category": "쇼핑",
+      "amount": 140000,
+      "memo": "책"
+    },
+    {
+      "id": 70,
+      "date": "2026-05-23",
+      "type": "expense",
+      "category": "교육",
+      "amount": 118000,
+      "memo": "학원"
+    },
+    {
+      "id": 71,
+      "date": "2026-05-24",
+      "type": "income",
+      "category": "환급",
+      "amount": 218000,
+      "memo": "세금환급"
+    },
+    {
+      "id": 72,
+      "date": "2026-05-24",
+      "type": "income",
+      "category": "이자수익",
+      "amount": 2241000,
+      "memo": "예금이자"
+    },
+    {
+      "id": 73,
+      "date": "2026-05-24",
+      "type": "expense",
+      "category": "경조사",
+      "amount": 120000,
+      "memo": "결혼식"
+    },
+    {
+      "id": 74,
+      "date": "2026-05-24",
+      "type": "expense",
+      "category": "경조사",
+      "amount": 16000,
+      "memo": "생일선물"
+    },
+    {
+      "id": 75,
+      "date": "2026-05-24",
+      "type": "expense",
+      "category": "교육",
+      "amount": 98000,
+      "memo": "온라인강의"
+    },
+    {
+      "id": 76,
+      "date": "2026-05-25",
+      "type": "expense",
+      "category": "공과금",
+      "amount": 125000,
+      "memo": "전기요금"
+    },
+    {
+      "id": 77,
+      "date": "2026-05-26",
+      "type": "income",
+      "category": "용돈",
+      "amount": 485000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "id": 78,
+      "date": "2026-05-27",
+      "type": "income",
+      "category": "이자수익",
+      "amount": 636000,
+      "memo": "예금이자"
+    },
+    {
+      "id": 79,
+      "date": "2026-05-27",
+      "type": "expense",
+      "category": "식비",
+      "amount": 153000,
+      "memo": "점심 김밥천국"
+    },
+    {
+      "id": 80,
+      "date": "2026-05-28",
+      "type": "income",
+      "category": "부수입",
+      "amount": 1848000,
+      "memo": "프리랜스"
+    },
+    {
+      "id": 81,
+      "date": "2026-06-02",
+      "type": "expense",
+      "category": "공과금",
+      "amount": 60000,
+      "memo": "수도요금"
+    },
+    {
+      "id": 82,
+      "date": "2026-06-03",
+      "type": "expense",
+      "category": "공과금",
+      "amount": 25000,
+      "memo": "전기요금"
+    },
+    {
+      "id": 83,
+      "date": "2026-06-04",
+      "type": "expense",
+      "category": "문화생활",
+      "amount": 15000,
+      "memo": "영화"
+    },
+    {
+      "id": 84,
+      "date": "2026-06-04",
+      "type": "income",
+      "category": "보너스",
+      "amount": 111000,
+      "memo": "분기보너스"
+    },
+    {
+      "id": 85,
+      "date": "2026-06-05",
+      "type": "income",
+      "category": "용돈",
+      "amount": 1488000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "id": 86,
+      "date": "2026-06-06",
+      "type": "expense",
+      "category": "통신",
+      "amount": 124000,
+      "memo": "휴대폰"
+    },
+    {
+      "id": 87,
+      "date": "2026-06-06",
+      "type": "expense",
+      "category": "경조사",
+      "amount": 148000,
+      "memo": "생일선물"
+    },
+    {
+      "id": 88,
+      "date": "2026-06-07",
+      "type": "expense",
+      "category": "문화생활",
+      "amount": 137000,
+      "memo": "콘서트"
+    },
+    {
+      "id": 89,
+      "date": "2026-06-09",
+      "type": "expense",
+      "category": "의료",
+      "amount": 139000,
+      "memo": "약국"
+    },
+    {
+      "id": 90,
+      "date": "2026-06-09",
+      "type": "income",
+      "category": "부수입",
+      "amount": 1269000,
+      "memo": "중고판매"
+    },
+    {
+      "id": 91,
+      "date": "2026-06-10",
+      "type": "income",
+      "category": "환급",
+      "amount": 208000,
+      "memo": "세금환급"
+    },
+    {
+      "id": 92,
+      "date": "2026-06-11",
+      "type": "expense",
+      "category": "쇼핑",
+      "amount": 15000,
+      "memo": "전자제품"
+    },
+    {
+      "id": 93,
+      "date": "2026-06-12",
+      "type": "expense",
+      "category": "문화생활",
+      "amount": 146000,
+      "memo": "넷플릭스"
+    },
+    {
+      "id": 94,
+      "date": "2026-06-16",
+      "type": "expense",
+      "category": "교통",
+      "amount": 35000,
+      "memo": "택시"
+    },
+    {
+      "id": 95,
+      "date": "2026-06-17",
+      "type": "expense",
+      "category": "문화생활",
+      "amount": 106000,
+      "memo": "도서구입"
+    },
+    {
+      "id": 96,
+      "date": "2026-06-20",
+      "type": "expense",
+      "category": "교육",
+      "amount": 39000,
+      "memo": "온라인강의"
+    },
+    {
+      "id": 97,
+      "date": "2026-06-21",
+      "type": "expense",
+      "category": "쇼핑",
+      "amount": 134000,
+      "memo": "신발"
+    },
+    {
+      "id": 98,
+      "date": "2026-06-22",
+      "type": "expense",
+      "category": "교통",
+      "amount": 50000,
+      "memo": "주유"
+    },
+    {
+      "id": 99,
+      "date": "2026-06-22",
+      "type": "income",
+      "category": "보너스",
+      "amount": 2381000,
+      "memo": "분기보너스"
+    },
+    {
+      "id": 100,
+      "date": "2026-06-24",
+      "type": "income",
+      "category": "용돈",
+      "amount": 255000,
+      "memo": "부모님 용돈"
+    },
+    {
+      "date": "2026-05-07",
+      "category": "식1비",
+      "amount": 500000,
+      "type": "income",
+      "memo": "아 배고파",
+      "id": 101
+    },
+    {
+      "date": "2026-05-07",
+      "category": "식1비",
+      "amount": 10000000,
+      "type": "expense",
+      "memo": "모수 서울",
+      "id": 102
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+body { background: #f4f6fa; font-family: 'Segoe UI', sans-serif; }
+.sidebar { min-height: 100vh; background: linear-gradient(180deg,#1e3a8a,#2563eb); color:#fff; }
+.sidebar a { color:#cbd5e1; text-decoration:none; display:block; padding:.75rem 1rem; border-radius:.5rem; margin-bottom:.25rem; }
+.sidebar a.router-link-active, .sidebar a:hover { background: rgba(255,255,255,.15); color:#fff; }
+.stat-card { border:none; border-radius:1rem; box-shadow:0 4px 12px rgba(0,0,0,.06); }
+.stat-card .icon { width:48px; height:48px; border-radius:12px; display:flex; align-items:center; justify-content:center; font-size:1.25rem; color:#fff; }
+.bg-income { background:#10b981; }
+.bg-expense { background:#ef4444; }
+.bg-balance { background:#3b82f6; }
+.bg-count { background:#f59e0b; }
+.chart-card { background:#fff; border-radius:1rem; box-shadow:0 4px 12px rgba(0,0,0,.06); padding:1.25rem; }
+.badge-income { background:#d1fae5; color:#065f46; }
+.badge-expense { background:#fee2e2; color:#991b1b; }
